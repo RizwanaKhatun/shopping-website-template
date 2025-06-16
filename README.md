@@ -33,7 +33,7 @@ Below that, a styled table shows mock data for sales:
 
 Festivals: Independence Day, Diwali, Christmas, New Year
 
-Discounts: Simulated price drops using <s> for strikethrough
+Discounts: Simulated price drops using <s></s> tag for strikethrough
 
 📝 Starting and Ending Dates
 ℹ️ 4. Informative Section
