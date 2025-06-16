@@ -35,18 +35,17 @@ Festivals: Independence Day, Diwali, Christmas, New Year
 
 Discounts: Simulated price drops using <s> for strikethrough
 
-Starting and ending dates
-
+📝 Starting and Ending Dates
 ℹ️ 4. Informative Section
-Explains the idea behind the store using sample content
+Explains the idea behind the store using sample content.
 
 Highlights features like:
 
-Festival sales
+🎉 Festival sales
 
-Payment options (Cash, UPI, Card, EMI)
+💳 Payment options (Cash, UPI, Card, EMI)
 
-Includes bulleted lists and descriptive text for readability
+Includes bulleted lists and descriptive text for readability.
 
 💅 5. Basic Styling with CSS
 Consistent visual style using CSS:
@@ -57,21 +56,23 @@ Colors: Black, grey, and purple shades
 
 Layout: Padding and margin for spacing
 
-Table styling, hover effects, and responsive image sizes using vw and vh
+Enhancements: Table styling, hover effects, and responsive image sizes using vw and vh units
 
 🧾 Output
 A static HTML/CSS fashion store layout with:
 
-Product previews
+🛍️ Product previews
 
-Placeholder text for store services
+📃 Placeholder text for store services
 
-Mock data in sales tables
+📊 Mock data in sales tables
 
 ⚠️ No JavaScript functionality or backend logic included (template-only).
 
 🛠️ Use Cases
-As a starter project for HTML/CSS learners
+Ideal as:
+
+A starter project for HTML/CSS learners
 
 A template to be extended into:
 
@@ -81,4 +82,4 @@ Full-stack application with backend logic
 
 Mobile-responsive version
 
-Used in educational contexts for layout and design practice
+A reference for educational layout and design practice
