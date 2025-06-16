@@ -1,10 +1,10 @@
-## shopping-website-template
+# shopping-website-template
 🧵 Overview of the Fashion Store Template Project
 🎯 Objective
 This project is designed as a static front-end template for a fashion store website, created using HTML and CSS. The goal is to showcase a clean, organized layout suitable for beginner developers learning web design and layout structuring, and can be extended later into a functional e-commerce site.
 
 🔑 Key Features of the Project
-#🧱 1. Structured Page Layout
+#**🧱 1. Structured Page Layout**
 Header: Displays the store name centrally in a styled navigation bar.
 
 Main Content includes:
